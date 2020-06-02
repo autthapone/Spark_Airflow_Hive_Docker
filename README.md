@@ -5,7 +5,7 @@ Deploy Application
 1. Run Docker Desktosp
 2. Open Terminal
 3. $ git clone git@github.com:autthapone/Spark_Airflow_Hive_Docker.git
-4. $ cd /Spark_Airflow_Hive_Docker/app
+4. $ cd Spark_Airflow_Hive_Docker/app
 5. $ docker-compose build
 6. $ docker-compose up
 
@@ -13,7 +13,7 @@ Re-Deploy Application
 1. Exit Docker-compose process
 2. $ docker-compose down
 3. Coding
-4. $ cd /Spark_Airflow_Hive_Docker/app
+4. $ cd Spark_Airflow_Hive_Docker/app
 5. $ git add .
 6. $ git status
 7. $ git commit -m "Deploy message"
