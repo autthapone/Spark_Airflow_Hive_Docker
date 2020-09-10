@@ -1,10 +1,10 @@
 # Spark_Airflow_Hive_Docker
-Run ETL by Spark, Airflow, Hive on Docker Desktop (Windows)
+Run ETL by Spark, Airflow, Hive on Docker Desktop
 
 Deploy Application
-1. Run Docker Desktosp
+1. Run Docker Desktop
 2. Open Terminal
-3. $ git clone git@github.com:autthapone/Spark_Airflow_Hive_Docker.git
+3. $ git clone https://github.com/autthapone/Spark_Airflow_Hive_Docker.git
 4. $ cd Spark_Airflow_Hive_Docker/app
 5. $ docker-compose build
 6. $ docker-compose up
