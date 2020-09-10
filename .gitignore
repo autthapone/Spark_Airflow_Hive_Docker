@@ -25,4 +25,3 @@ data/
 /.vscode/
 
 /var/
-app/dags/__pycache__/data_stream_DAG.cpython-37.pyc
