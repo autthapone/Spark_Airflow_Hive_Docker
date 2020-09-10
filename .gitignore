@@ -1,0 +1,28 @@
+# DS_STORE
+*DS_STORE*
+
+# __pycache__
+*__pycache__*
+
+# .pyc
+*.pyc*
+
+# test
+# *test*
+
+# docker
+data/
+
+# intellij
+*.idea*
+
+# password
+*password*
+
+#plugin
+/plugins
+
+/.vscode/
+
+/var/
+app/dags/__pycache__/data_stream_DAG.cpython-37.pyc
